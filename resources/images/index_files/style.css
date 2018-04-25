@@ -1,0 +1,34 @@
+
+
+/* Header */
+
+.header {
+font-family: verdana;
+ font-size: 14px;
+ font-weight: bold;
+ display: flex;
+ align-items: center;
+}
+
+.logo {
+  display: flex;
+  color: MediumAquamarine;
+
+}
+
+.nav {
+  display: flex;
+  position:
+
+}
+
+.nav p {
+  display: inline-block;
+
+}
+
+/* Body */
+
+
+
+/* Footer */
